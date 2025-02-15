@@ -3,13 +3,13 @@ Sneaker Spots is a blog I created to provide sneaker raffle links. This site hel
 
 ## Features
 
-- [x] Raffle Links: Stay updated with the latest sneaker raffles and direct links to enter.
-- [x] Store Listings: Find out which stores are stocking upcoming sneakers and their entry requirements.
-- [x] Social Media Integration: Follow Sneaker Spots on X and GitHub for more updates.
+- Raffle Links: Stay updated with the latest sneaker raffles and direct links to enter.
+- Store Listings: Find out which stores are stocking upcoming sneakers and their entry requirements.
+- Social Media Integration: Follow Sneaker Spots on X and GitHub for more updates.
 
 ## Technologies Used
 
-- [x] HTML, CSS, JavaScript – For structuring and styling the website.
-- [x] Bootstrap – Used for responsive design and layout.
-- [x] Google Fonts & Font Awesome – For typography and icons.
-- [x] JavaScript (Bootstrap Bundle) – For interactivity and navigation.
+- HTML, CSS, JavaScript – For structuring and styling the website.
+- Bootstrap – Used for responsive design and layout.
+- Google Fonts & Font Awesome – For typography and icons.
+- JavaScript (Bootstrap Bundle) – For interactivity and navigation.
