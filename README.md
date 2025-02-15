@@ -1,2 +1,2 @@
 # SneakerSpots
-Sneaker Release Info Blog
+Sneaker release info blog using bootstrap.
